@@ -1,6 +1,6 @@
 # Forms And Basic Associations Rails Lab
 
-## Objectives
+## Objectives 
 
 1. Practice defining associations
 2. Practice building forms in ERB when working with nested models
